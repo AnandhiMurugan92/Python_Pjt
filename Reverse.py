@@ -6,8 +6,8 @@ def reverse(s):
   
 s = "Anandhi"
   
-print ("The original string  is : ",end="")
+print ("The original string  is : ","")
 print (s)
   
-print ("The reversed string(using recursion) is : ",end="")
+print ("The reversed string(using recursion) is : ","")
 print (reverse(s))
